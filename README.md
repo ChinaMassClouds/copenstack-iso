@@ -18,6 +18,8 @@
 
 web部署平台默认帐号admin/admin。部署完成后系统默认三个管理员权限帐号sysadmin/admin、auditadmin/admin、appradmin/admin。
 
+部署iso下载地址：http://open.massclouds.com:8086/downloads
+
 <b>功能说明</b>
 
 1、对openstack的异构接管进行了增强，通过dashboard界面能够方便的配置接管乾云cCenter、VMWare vCenter虚拟化平台，能够直接接管VMWare vCenter平台已有的虚机；
