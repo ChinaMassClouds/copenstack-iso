@@ -19,7 +19,7 @@
 web部署平台默认帐号admin/admin。部署完成后系统默认三个管理员权限帐号sysadmin/admin、auditadmin/admin、appradmin/admin。
 
 部署iso下载地址：http://open.massclouds.com:8086/downloads/MCOS-Openstack-deploy-V1.0.iso
-备用地址：http://pan.baidu.com/s/1jHS7lkU
+</br>备用地址：http://pan.baidu.com/s/1jHS7lkU
 
 <b>功能说明</b>
 
